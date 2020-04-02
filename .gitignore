@@ -1,5 +1,6 @@
+#kintsugiboy
 # Gradle files
-.gradle/
+# .gradle/
 
 # User-specific configurations
 *.iml
